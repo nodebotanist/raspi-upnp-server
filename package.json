@@ -1,0 +1,22 @@
+{
+  "name": "raspi-upnp-server",
+  "version": "1.0.0",
+  "description": "My attempt at understanding uPnP with Node and Raspi",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nodebotanist/raspi-upnp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nodebotanist/raspi-upnp-server/issues"
+  },
+  "homepage": "https://github.com/nodebotanist/raspi-upnp-server#readme"
+}
